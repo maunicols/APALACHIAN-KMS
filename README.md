@@ -156,7 +156,7 @@ godot --path . --export-release "Windows Desktop" export/windows/matame.exe
 ## 👤 Author
 
 Developed by Claude (Anthropic)  
-Based on game design by [User]
+Based on game design by [maunicols]
 
 ---
 
